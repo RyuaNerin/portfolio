@@ -5,6 +5,10 @@
    HTML5 display definitions
    ========================================================================== */
 
+li img {
+	width: 1.5em;
+	height: 1.5em;
+}
 
 /**
  * Correct `block` display not defined in IE 8/9.
