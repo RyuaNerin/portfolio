@@ -4,4 +4,5 @@ all:
 	@cat readme.htm      >> index.htm
 	@cat tmpl.footer.htm >> index.htm
 	@sed -i '/\/img\/profile\.png/d' index.htm
+	@sed -i 's/<a /<a target="_blank" /' index.htm
 
