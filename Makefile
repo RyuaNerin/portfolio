@@ -3,3 +3,5 @@ all:
 	@cat tmpl.header.htm  > index.htm
 	@cat readme.htm      >> index.htm
 	@cat tmpl.footer.htm >> index.htm
+	@sed -i '/\/img\/profile\.png/d' index.htm
+
