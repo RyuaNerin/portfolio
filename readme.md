@@ -13,45 +13,46 @@
 - Telegram : [RyuaNerin](https://t.me/ryuanerin)
 - Keybase : [RyuaNerin](https://keybase.io/ryuanerin)
 - E-Mail
-	- [admin@ryuar.in](mailto:admin@ryuar.in)
-	- [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
+    - [admin@ryuar.in](mailto:admin@ryuar.in)
+    - [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
 
 ## Services
-- [**트윗수랭크 일본**](https://twrank-jp.ryuar.in/)
+- [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 - [**트윗수랭크 한국**](https://twrank-ko.ryuar.in/)
+- [**트윗수랭크 일본**](https://twrank-jp.ryuar.in/)
 - [**Anti Egg**](https://anti-egg.ryuar.in/)
 - [**Tweet Timer**](https://timer.ryuar.in/)
-- [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 
 ## Personal Experiences
 ### Server
 - Domains
-	- [`ryuar.in`](https://ryuar.in) (with `DNSSEC`)
-	- `ryuaner.in` (with `DNSSEC`)
-	- `ryuanerin.kr`
-- `2017/07 ~ 2019/06` : ~~`ipTime Nas1Dual`~~
-- `2019/06 ~ 2019/11` : ~~`TerraMaster F2-220`~~
+    - [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
+    - `ryuaner.in` (with **DNSSEC**)
+    - `ryuanerin.kr`
+- `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
+- `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
 - `2019/12` : DIY NAS Server
-	- CPU : `Ryzen 2200G`
-	- OS : `Arch-Linux`
-	- UPS (with `NUT`)
-	- Storage
-		- `lvm` + `cryptsetup (dm_crypt)`
-	- Mail
-		- `Postfix`
-		- `Dovecot` (with `opendmarc` `opendkim` `spamassassin`)
-	- Database
-		- `MariaDB`
-		- `PostgreSQL`
-		- `Redis`
-	- HTTP
-		- `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
-			- `EC 256 bits` `RSA 2048 bits`
-			- [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
-		- [`Personal Sentry Server`](https://sentry.io/)
-			- 오픈소스 에러-트래킹 서버
-	- FTP
-		- `proftpd`
+    - CPU : `AMD Ryzen 2200G`
+    - RAM : `DDR4 8G`
+    - OS : `Arch-Linux`
+    - UPS
+        - `network-ups-tools`
+    - Storage
+        - `lvm` + `cryptsetup (dm_crypt)`
+    - Mail
+        - `Postfix`
+        - `Dovecot` (with `opendmarc` `opendkim` `spamassassin`)
+    - Database
+        - `MariaDB`
+        - `PostgreSQL`
+        - `Redis`
+    - HTTP
+        - `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
+            - `EC 256 bits` `RSA 2048 bits`
+            - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
+        - [`Sentry Server`](https://sentry.io/)
+    - FTP
+        - `proftpd`
 
 ### Web Services
 - `2020/01` `go` [**트윗수랭크 일본**](https://twrank-jp.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.
@@ -79,7 +80,7 @@
 - `2014/03` `C#` [~~MozillaPlugins~~](https://github.com/RyuaNerin/MozillaPlugins) : NPAPI 제거 프로그램
 
 ### Social Network
-- `2018/08` `C#` [**스트리밍 호흡기**](https://github.com/RyuaNerin/StreamingRespirator) : `deprecated` 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
+- `2018/08` `C#` [**스트리밍 호흡기**](https://github.com/RyuaNerin/StreamingRespirator) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
 - `2016/03` `js` [**CustomViaForAzurea**](https://github.com/RyuaNerin/CustomViaForAzurea) : Custom via for Azurea
 - `2015/11` `C#` [**뎃찌 (Decchi)**](https://github.com/SasarinoMARi/Decchi) : 뎃찌 와 함께 데스크탑에서 #NowPlaying 을 게시해요.
 - `2015/06` `C#` [Twitter-OAuth-Token-Generator](https://github.com/RyuaNerin/Twitter-OAuth-Token-Generator) : Twitter-OAuth-Token-Generator (supported both URL and Pin)
@@ -92,7 +93,7 @@
 - `2016/11` `C#` [WindowFinder](https://gist.github.com/RyuaNerin/cf57dc3e9d08d7b57e03de5e81677207) : Window finder control
 - `2016/10` `C#` [~~DllInjector~~](https://github.com/RyuaNerin/DllInjector) : `x64` `x32` 모두 지원하는 Dll Injector
 
-### Cross-Platform Applictaion
+### Cross-Platform Application
 - `2020/02` `go` [image-crawler](https://github.com/RyuaNerin/image-crawler) : simple image crawler
 - `2019/06` `go` [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선
 
@@ -100,7 +101,6 @@
 - `2014/03` `C#` [AheuiCSharp](https://github.com/RyuaNerin/AheuiCSharp) : C# 아희 인터프리터
 
 ### Game
-
 #### Final Fantasy XIV
 - `2018/06` `C#` [~~ACT.FFXIV_Discord~~](https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인
 - `2018/04` `C#` [~~Fafalymo~~](https://github.com/RyuaNerin/Fafalymo) : fflogs 에 로그 업로드를 가능하도록 수정해주는 프로그램
@@ -122,7 +122,7 @@
 ### Libraries
 - `2019/04` `go` [at](https://github.com/RyuaNerin/at) : The simple library that execute func in the future at a predefined time.
 - `2017/07` `C#` [BsonToolKit](https://github.com/RyuaNerin/BsonToolKit) : BsonToolkit Based JsonToolkit
-- `2017/02` `C#` [LoadPSD](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
+- `2017/02` `C#` [**LoadPSD**](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
 - `2016/05` `C#` [libpuzzle-sharp](https://github.com/RyuaNerin/libpuzzle-sharp) : A library to find similar pictures [Libpuzzle](https://www.pureftpd.org/project/libpuzzle)=
 - `2016/04` `C#` [ExtendStringComparer.cs](https://gist.github.com/RyuaNerin/4d42bd5adb283378c31438c78866b778)
 - `2016/04` `C#` [Base64Write.cs](https://gist.github.com/RyuaNerin/9bed4ed80d6dc5c522dab4bff3777086) : Read from src stream, encoding with base64, then write to destination stream.

@@ -38,7 +38,52 @@
     <meta property="og:type"        content="website" />
     <meta property="og:title"       content="RyuaNerin" />
 
-    <link rel="stylesheet" type="text/css" href="github-pandoc.css" lazyload>
+    <link rel="stylesheet" type="text/css" href="github-markdown.css" lazyload>
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+
+        .markdown-body img:first-child {
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
+    <article class="markdown-body">
+        <nav id="$idprefix$TOC">
+            $toc$
+        </nav>
+        <hr>
+
+        $body$
+    </article>
+
+    <script>
+        ! function(e, a, t, n, c, o, s) {
+            e.GoogleAnalyticsObject = c, e[c] = e[c] || function() {
+                (e[c].q = e[c].q || []).push(arguments)
+            }, e[c].l = 1 * new Date, o = a.createElement(t), s = a.getElementsByTagName(t)[0], o.async = 1, o.src = n, s.parentNode.insertBefore(o, s)
+        }(window, document, "script", "//www.google-analytics.com/analytics.js", "ga"), ga("create", "UA-51806220-1", "auto"), ga("send", "pageview");
+    </script>
+
+    <script>
+        var links = document.querySelectorAll('.markdown-body a');  
+        for (var i = 0; i < links.length; i++) {
+            links[i].target = '_blank';
+        }
+    </script>
+</body>
+
+</html>
