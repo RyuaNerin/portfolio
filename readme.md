@@ -1,13 +1,15 @@
-![](/img/profile.png)
+![profile](/img/profile.png)
 
 # RyuaNerin
 
 ## Introduction
+
 - Beginner
 - `C#` / `golang`
 - PGP : `D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`
 
 ## Contact
+
 - Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
 - GitHub : [RyuaNerin](https://github.com/RyuaNerin)
 - Telegram : [RyuaNerin](https://t.me/ryuanerin)
@@ -17,21 +19,28 @@
     - [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
 
 ## Services
+
+- [**트위터 이미지 로딩 속도 개선 DNS**](https://github.com/RyuaNerin/DNS-For-Twimg)
 - [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 - [**트윗수랭크 한국**](https://twrank-ko.ryuar.in/)
-- [**트윗수랭크 일본**](https://twrank-jp.ryuar.in/)
 - [**Anti Egg**](https://anti-egg.ryuar.in/)
 - [**Tweet Timer**](https://timer.ryuar.in/)
 
 ## Personal Experiences
+
+### Domains
+
+- [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
+- `ryuaner.in` (with **DNSSEC**)
+- `ryuanerin.kr`
+- ~~`decchi.info`~~
+
 ### Server
-- Domains
-    - [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
-    - `ryuaner.in` (with **DNSSEC**)
-    - `ryuanerin.kr`
+
+- `2012/09 ~ 2019/06` : VPS
 - `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
 - `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
-- `2019/12` : DIY NAS Server
+- `2019/12 ~ NOW` : DIY NAS Server
     - CPU : `AMD Ryzen 2200G`
     - RAM : `DDR4 8G`
     - OS : `Arch-Linux`
@@ -53,8 +62,11 @@
         - [`Sentry Server`](https://sentry.io/)
     - FTP
         - `proftpd`
+- `2020/05 ~ NOW` : Vultr VPS
+    - 트위터 이미지 로딩 속도 개선 DNS
 
 ### Web Services
+
 - `2020/01` `go` [**트윗수랭크 일본**](https://twrank-jp.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.
 - `2019/09` `PHP + golang` [**Anti Egg**](https://anti-egg.ryuar.in/) : 알계가 멘션하면 자동으로 블락합니다
 - `2019/06` `go` [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : Twimg 로딩속도 개선을 위한 기능이 추가 된 dns
@@ -62,10 +74,12 @@
 - `2018/10` `PHP + go` [**Tweet Timer**](https://timer.ryuar.in/) : 트윗 삭제 예약 서비스
 
 ### Kakao
+
 - `2020/02` `go` [**상지대 식단안내**](https://github.com/RyuaNerin/sangji-haksik-channel) : 상지대학교 창조관/민주관 식단표 조회용 카카오 플러스친구
 - `2020/02` `go` [**go-kakaoskill**](https://github.com/RyuaNerin/go-kakaoskill) : golang 용 카카오 i 오픈빌더 스킬 v2 라이브러리
 
 ### Windows Applictaion
+
 - `2019/09` `C#` [**PowerTweak**](https://github.com/RyuaNerin/PowerTweak) : 사용중인 노트북에서 전원버튼으로 절전모드로 변경이 불가능해서 만든 프로그램.
 - `2019/08` `C#` [iTunesLyricOverlay](https://github.com/RyuaNerin/iTunesLyricOverlay) : 아이튠즈(애플뮤직) 알송 가사 오버레이
 - `2019/03` `c++` [**FucKakaoAd**](https://github.com/RyuaNerin/FucKakaoAd) : 카카오톡 광고 차단 프로그램. dll injection 활용으로 화면의 버벅거림이 없음.
@@ -80,6 +94,8 @@
 - `2014/03` `C#` [~~MozillaPlugins~~](https://github.com/RyuaNerin/MozillaPlugins) : NPAPI 제거 프로그램
 
 ### Social Network
+
+- `2020/04` `go` [**스트리밍 호흡기 (서버용)**](https://github.com/RyuaNerin/StreamingRespiratorServer) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
 - `2018/08` `C#` [**스트리밍 호흡기**](https://github.com/RyuaNerin/StreamingRespirator) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
 - `2016/03` `js` [**CustomViaForAzurea**](https://github.com/RyuaNerin/CustomViaForAzurea) : Custom via for Azurea
 - `2015/11` `C#` [**뎃찌 (Decchi)**](https://github.com/SasarinoMARi/Decchi) : 뎃찌 와 함께 데스크탑에서 #NowPlaying 을 게시해요.
@@ -90,18 +106,23 @@
 - `2014/03` `js` [AzureaScript](https://github.com/RyuaNerin/AzureaScript) : 아즈레아 스크립트 모음
 
 ### Windows API
+
 - `2016/11` `C#` [WindowFinder](https://gist.github.com/RyuaNerin/cf57dc3e9d08d7b57e03de5e81677207) : Window finder control
 - `2016/10` `C#` [~~DllInjector~~](https://github.com/RyuaNerin/DllInjector) : `x64` `x32` 모두 지원하는 Dll Injector
 
 ### Cross-Platform Application
+
 - `2020/02` `go` [image-crawler](https://github.com/RyuaNerin/image-crawler) : simple image crawler
 - `2019/06` `go` [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선
 
 ### Programming Language
+
 - `2014/03` `C#` [AheuiCSharp](https://github.com/RyuaNerin/AheuiCSharp) : C# 아희 인터프리터
 
 ### Game
+
 #### Final Fantasy XIV
+
 - `2018/06` `C#` [~~ACT.FFXIV_Discord~~](https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인
 - `2018/04` `C#` [~~Fafalymo~~](https://github.com/RyuaNerin/Fafalymo) : fflogs 에 로그 업로드를 가능하도록 수정해주는 프로그램
 - `2017/12` `C++` [~~NoMore~~](https://github.com/RyuaNerin/NoMore) : 자리비움 방지 프로그램
@@ -120,6 +141,7 @@
 - `2016/07` `C#` [~~Mofi~~](https://github.com/RyuaNerin/Mofi) : 현재 캐릭터 주변에 있는 마물을 감지해줍니다
 
 ### Libraries
+
 - `2019/04` `go` [at](https://github.com/RyuaNerin/at) : The simple library that execute func in the future at a predefined time.
 - `2017/07` `C#` [BsonToolKit](https://github.com/RyuaNerin/BsonToolKit) : BsonToolkit Based JsonToolkit
 - `2017/02` `C#` [**LoadPSD**](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
