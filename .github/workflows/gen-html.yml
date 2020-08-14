@@ -1,0 +1,34 @@
+name: gen-html
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+      
+    - name: pandoc
+      uses: maxheld83/pandoc@v2
+      with:
+        args: "--metadata title='...' --template=template.htm --table-of-contents readme.md -o readme.htm"
+        
+    - name: Commit changes
+      run: |
+        git add readme.htm
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "update readme.htm" -a
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
