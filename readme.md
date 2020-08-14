@@ -21,11 +21,11 @@
 ## Services
 
 - [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow)
-- [**트위터 이미지 로딩 속도 개선 DNS**](https://github.com/RyuaNerin/DNS-For-Twimg)
-- [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
+- [**트위터 이미지 로딩 속도 개선 DNS**](https://twimg.ryuar.in/)
 - [**트윗수랭크 한국**](https://twrank-ko.ryuar.in/)
 - [**Anti Egg**](https://anti-egg.ryuar.in/)
 - [**Tweet Timer**](https://timer.ryuar.in/)
+- [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 
 ## Personal Experiences
 
