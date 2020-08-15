@@ -79,6 +79,10 @@
 - `2020/02` `go` [**상지대 식단안내**](https://github.com/RyuaNerin/sangji-haksik-channel) : 상지대학교 창조관/민주관 식단표 조회용 카카오 플러스친구
 - `2020/02` `go` [**go-kakaoskill**](https://github.com/RyuaNerin/go-kakaoskill) : golang 용 카카오 i 오픈빌더 스킬 v2 라이브러리
 
+### Utilities
+
+- `2020/08` `go` [ghpull](https://github.com/RyuaNerin/ghpull) : Auto git-pull by GitHub WebHook
+
 ### Windows Applictaion
 
 - `2019/09` `C#` [**PowerTweak**](https://github.com/RyuaNerin/PowerTweak) : 사용중인 노트북에서 전원버튼으로 절전모드로 변경이 불가능해서 만든 프로그램.
