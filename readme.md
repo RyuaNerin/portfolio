@@ -41,9 +41,10 @@
 - `2012/09 ~ 2019/06` : VPS
 - `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
 - `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
-- `2019/12 ~ NOW` : DIY NAS Server
+- `2019/12 ~ NOW` : DIY NAS Server ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m784383246-7deb49be8ab1dac79ba9a256?style=flat-square)
+
     - CPU : `AMD Ryzen 2200G`
-    - RAM : `DDR4 8G`
+    - RAM : `DDR4 16 GB`
     - OS : `Arch-Linux`
     - UPS
         - `network-ups-tools`
@@ -63,7 +64,9 @@
         - [`Sentry Server`](https://sentry.io/)
     - FTP
         - `proftpd`
-- `2020/05 ~ NOW` : Vultr VPS
+
+- `2020/05 ~ NOW` : Vultr VPS ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785766277-bbb43b55bd3fa73c116174ce?style=flat-square)
+
     - 트위터 이미지 로딩 속도 개선 DNS
 
 ### Web Services
