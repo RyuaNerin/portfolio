@@ -38,7 +38,7 @@
 
 ### Server
 
-- `2012/09 ~ 2019/06` : VPS
+- `2012/09 ~ 2019/06` : ~~VPS~~
 - `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
 - `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
 - `2019/12 ~ NOW` : DIY NAS Server ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m784383246-7deb49be8ab1dac79ba9a256?style=flat-square)
@@ -51,14 +51,14 @@
         - `lvm` + `cryptsetup (dm_crypt)`
     - Mail
         - `Postfix`
-        - `Dovecot` (with `opendmarc` `opendkim` `spamassassin`)
+        - `Dovecot` (with `opendmarc` `opendkim` `spamassassin` `amavisd`)
     - Database
         - `MariaDB`
         - `PostgreSQL`
         - `Redis`
     - HTTP
         - `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
-            - `EC 256 bits` `RSA 2048 bits`
+            - supports `EC 256 bits` `RSA 2048 bits`
             - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
         - [`Sentry Server`](https://sentry.io/)
     - FTP
