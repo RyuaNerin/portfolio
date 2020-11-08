@@ -56,7 +56,7 @@
         - `MariaDB`
         - `PostgreSQL`
         - `Redis`
-    - HTTP
+    - WEB
         - `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
             - supports `EC 256 bits` `RSA 2048 bits`
             - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
@@ -81,6 +81,7 @@
 
 ### Utilities
 
+- `2020/11` `py` [top-languages-readme](https://github.com/RyuaNerin/top-languages-readme) : Add development language usage statistics on your Profile Readme.
 - `2020/08` `go` [ghpull](https://github.com/RyuaNerin/ghpull) : Auto git-pull by GitHub WebHook
 
 ### Windows Applictaion
