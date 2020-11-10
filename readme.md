@@ -91,13 +91,13 @@
 -   `2019/03` `c++` [**FucKakaoAd**](https://github.com/RyuaNerin/FucKakaoAd) : 카카오톡 광고 차단 프로그램. dll injection 활용으로 화면의 버벅거림이 없음.
 -   `2018/07` `C#`  [**하뉴 (Hanyu)**](https://github.com/RyuaNerin/Hanyu) : (범용) 공인인증서 조회 / ~~복사~~ / ~~삭제~~ / 암호 변경 프로그램
 - ~~`2018/06` `C#`  [**DaruDaru**](https://github.com/RyuaNerin/DaruDaru) : 강력한 마나모아 만화 다운로더 (모든 만화 다운로드 가능)~~
-- ~~`2016/11` `C#`  [TopMost] (https://github.com/RyuaNerin/Topmost) : 선택한 창을 항상 최상위로 유지하게 해주는것~~
-- ~~`2016/04` `C#`  [Subname] (https://github.com/RyuaNerin/Subname) : 영상-자막 이름 매칭 프로그램~~
+- ~~`2016/11` `C#`  [TopMost](https://github.com/RyuaNerin/Topmost) : 선택한 창을 항상 최상위로 유지하게 해주는것~~
+- ~~`2016/04` `C#`  [Subname](https://github.com/RyuaNerin/Subname) : 영상-자막 이름 매칭 프로그램~~
 -   `2016/04` `C#`  [**Kisbo**](https://github.com/RyuaNerin/Kisbo) : 이미지를 구글링하고, 더 좋은 해상도로 다운로드합니다!
 -   `2015/12` `C#`  [**FuKo**](https://github.com/RyuaNerin/FuKo) : 공인인증서 암호 변경 프로그램
 -   `2015/03` `C#`  [ResizeTo5MB](https://github.com/RyuaNerin/ResizeTo5MB) : 이미지의 해상도를 줄여 5MB 에 최대한 가깝게 만들어준다.
-- ~~`2014/04` `C#`  [OtakuImage] (https://github.com/RyuaNerin/OtakuImage) : 짤수집기 소스코드~~
-- ~~`2014/03` `C#`  [MozillaPlugins] (https://github.com/RyuaNerin/MozillaPlugins) : NPAPI 제거 프로그램~~
+- ~~`2014/04` `C#`  [OtakuImage](https://github.com/RyuaNerin/OtakuImage) : 짤수집기 소스코드~~
+- ~~`2014/03` `C#`  [MozillaPlugins](https://github.com/RyuaNerin/MozillaPlugins) : NPAPI 제거 프로그램~~
 
 ### Social Network
 
@@ -109,14 +109,14 @@
 -   `2015/11` `C#`  [**뎃찌 (Decchi)**](https://github.com/SasarinoMARi/Decchi) : 뎃찌 와 함께 데스크탑에서 #NowPlaying 을 게시해요.
 -   `2015/06` `C#`  [Twitter-OAuth-Token-Generator](https://github.com/RyuaNerin/Twitter-OAuth-Token-Generator) : Twitter-OAuth-Token-Generator (supported both URL and Pin)
 -   `2015/05` `C#`  [Azpe](https://github.com/RyuaNerin/Azpe) : 아즈레아의 약간 부족한 이미지 뷰어를 강화하고자 한 프로그램입니다.
-- ~~`2014/07` `C#`  [TwitterArchiveViewer] (https://github.com/RyuaNerin/TwitterArchiveViewer) : Twitter Archive Viewer Written by .Net 3.5~~
+- ~~`2014/07` `C#`  [TwitterArchiveViewer](https://github.com/RyuaNerin/TwitterArchiveViewer) : Twitter Archive Viewer Written by .Net 3.5~~
 -   `2014/05` `C#`  [**TiX (QIT)**](https://github.com/RyuaNerin/QIT) : 쉽게 트위터에 사진 트윗하기. 용량이 큰 이미지 자동 리사이징 기능 지원
 -   `2014/03` `js`  [AzureaScript](https://github.com/RyuaNerin/AzureaScript) : 아즈레아 스크립트 모음
 
 ### Windows API
 
 -   `2016/11` `C#`  [WindowFinder](https://gist.github.com/RyuaNerin/cf57dc3e9d08d7b57e03de5e81677207) : Window finder control
-- ~~`2016/10` `C#`  [DllInjector] (https://github.com/RyuaNerin/DllInjector) : `x64` `x32` 모두 지원하는 Dll Injector~~
+- ~~`2016/10` `C#`  [DllInjector](https://github.com/RyuaNerin/DllInjector) : `x64` `x32` 모두 지원하는 Dll Injector~~
 
 ### Cross-Platform Application
 
@@ -131,27 +131,27 @@
 
 #### ~~Final Fantasy XIV~~
 
-- ~~`2018/06` `C#`  [ACT.FFXIV_Discord] (https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인~~
-- ~~`2018/04` `C#`  [Fafalymo] (https://github.com/RyuaNerin/Fafalymo) : fflogs 에 로그 업로드를 가능하도록 수정해주는 프로그램~~
-- ~~`2017/12` `C++` [NoMore] (https://github.com/RyuaNerin/NoMore) : 자리비움 방지 프로그램~~
-- ~~`2017/12` `C#`  [FFXIV_ZOOM_LIMIT_BREAKER] (https://github.com/RyuaNerin/FFXIV_ZOOM_LIMIT_BREAKER) : 줌핵. 클라이언트 버전에 관계 없게 메모리 Offset 찾는 코드 작성.~~
-- ~~`2017/09` `C#`  [filv] (https://github.com/RyuaNerin/filv) : 대상 아이템레벨 확인 프로그램~~
-- ~~`2017/09` `C#`  [ACT.A12S-Helper] (https://github.com/RyuaNerin/ACT.A12S-Helper) : 창천의 이슈가르드 - 기공성 알렉산더 천동편 4층 (어려움) 도우미~~
-- ~~`2017/08` `c++` [SquadronInfo] (https://github.com/RyuaNerin/SquadronInfo) : 소대정보 뷰어~~
-- ~~`2017/06` `C#`  [ffxivcapture] (https://github.com/RyuaNerin/ffxivcapture) : 스크린샷 빠르게 찍는 프로그램~~
-- ~~`2017/02` `web`  [RimpleSkin] (https://github.com/RyuaNerin/RimpleSkin) : 오버레이에 이상한거좀 안 넣었으면 좋겠다고 생각해서 만든 ACT 용 미터기 스킨~~
-- ~~`2017/02` `C#`  [고양감 16스택 (HighWire16Stacks)] (https://github.com/RyuaNerin/HighWire16Stacks) : 자기 캐릭터 버프/디버프를 별도의 창으로 크게 보여주는 프로그램~~
-- ~~`2017/02` `C#`  [viewffsetting] (https://github.com/RyuaNerin/viewffsetting) : View Macro/Gearset in Final Fantasy XIV Character Setting~~
-- ~~`2016/11` `C++` [FIME] (https://github.com/RyuaNerin/FIME) : "뭐야 왜 영어야?" 고쳐주는 프로그램~~
-- ~~`2016/10` `C#`  [FFChatBot] (https://github.com/RyuaNerin/FFChatBot) : 인게임 채팅과 텔레그램을 중계해주는 봇~~
-- ~~`2016/08` `C#`  [ffchat] (https://github.com/RyuaNerin/ffchat) : chat log viewer~~
-- ~~`2016/07` `C#`  [ffxiv_equip_durability] (https://github.com/RyuaNerin/ffxiv_equip_durability) : 현재 장착중인 장비의 결속도와 내구도를 표시해주는 프로그램~~
-- ~~`2016/07` `C#`  [Mofi] (https://github.com/RyuaNerin/Mofi) : 현재 캐릭터 주변에 있는 마물을 감지해줍니다~~
+- ~~`2018/06` `C#`  [ACT.FFXIV_Discord](https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인~~
+- ~~`2018/04` `C#`  [Fafalymo](https://github.com/RyuaNerin/Fafalymo) : fflogs 에 로`그 업로드를 가능하도록 수정해주는 프로그램~~
+- ~~`2017/12` `C++` [NoMore](https://github.com/RyuaNerin/NoMore) : 자리비움 방지 프로그램~~
+- ~~`2017/12` `C#`  [FFXIV_ZOOM_LIMIT_BREAKER](https://github.com/RyuaNerin/FFXIV_ZOOM_LIMIT_BREAKER) : 줌핵. 클라이언트 버전에 관계 없게 메모리 Offset 찾는 코드 작성.~~
+- ~~`2017/09` `C#`  [filv](https://github.com/RyuaNerin/filv) : 대상 아이템레벨 확인 프로그램~~
+- ~~`2017/09` `C#`  [ACT.A12S-Helper](https://github.com/RyuaNerin/ACT.A12S-Helper) : 창천의 이슈가르드 - 기공성 알렉산더 천동편 4층 (어려움) 도우미~~
+- ~~`2017/08` `c++` [SquadronInfo](https://github.com/RyuaNerin/SquadronInfo) : 소대정보 뷰어~~
+- ~~`2017/06` `C#`  [ffxivcapture](https://github.com/RyuaNerin/ffxivcapture) : 스크린샷 빠르게 찍는 프로그램~~
+- ~~`2017/02` `web`  [RimpleSkin](https://github.com/RyuaNerin/RimpleSkin) : 오버레이에 이상한거좀 안 넣었으면 좋겠다고 생각해서 만든 ACT 용 미터기 스킨~~
+- ~~`2017/02` `C#`  [고양감 16스택 (HighWire16Stacks)](https://github.com/RyuaNerin/HighWire16Stacks) : 자기 캐릭터 버프/디버프를 별도의 창으로 크게 보여주는 프로그램~~
+- ~~`2017/02` `C#`  [viewffsetting](https://github.com/RyuaNerin/viewffsetting) : View Macro/Gearset in Final Fantasy XIV Character Setting~~
+- ~~`2016/11` `C++` [FIME](https://github.com/RyuaNerin/FIME) : "뭐야 왜 영어야?" 고쳐주는 프로그램~~
+- ~~`2016/10` `C#`  [FFChatBot](https://github.com/RyuaNerin/FFChatBot) : 인게임 채팅과 텔레그램을 중계해주는 봇~~
+- ~~`2016/08` `C#`  [ffchat](https://github.com/RyuaNerin/ffchat) : chat log viewer~~
+- ~~`2016/07` `C#`  [ffxiv_equip_durability](https://github.com/RyuaNerin/ffxiv_equip_durability) : 현재 장착중인 장비의 결속도와 내구도를 표시해주는 프로그램~~
+- ~~`2016/07` `C#`  [Mofi](https://github.com/RyuaNerin/Mofi) : 현재 캐릭터 주변에 있는 마물을 감지해줍니다~~
 
 ### Libraries
 
 -   `2020/08` `go`  [go-krypto](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea
-- ~~`2019/04` `go`  [at] (https://github.com/RyuaNerin/at) : The simple library that execute func in the future at a predefined time.~~
+- ~~`2019/04` `go`  [at](https://github.com/RyuaNerin/at) : The simple library that execute func in the future at a predefined time.~~
 -   `2017/02` `C#`  [**LoadPSD**](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
 -   `2016/05` `C#`  [libpuzzle-sharp](https://github.com/RyuaNerin/libpuzzle-sharp) : A library to find similar pictures [Libpuzzle](https://www.pureftpd.org/project/libpuzzle)
 -   `2016/04` `C#`  [ExtendStringComparer.cs](https://gist.github.com/RyuaNerin/4d42bd5adb283378c31438c78866b778)
@@ -159,7 +159,7 @@
 -   `2016/02` `C#`  [EngHanConverter.cs](https://gist.github.com/RyuaNerin/a62f5ba56f3b3121a495) : 한영타변환 예) 한글 <-> gksrmf
 -   `2015/09` `C#`  [WELL-Sharp](https://github.com/RyuaNerin/WELL-Sharp) : [WELLRNG](http://www.iro.umontreal.ca/~panneton/WELLRNG.html) written by C#.
 -   `2014/08` `C#`  [TOAuth](https://github.com/RyuaNerin/TOAuth) : Twitter OAuth Library
-- ~~`2014/07` `C#`  [BsonToolKit] (https://github.com/RyuaNerin/BsonToolKit) : BsonToolkit Based JsonToolkit~~
+- ~~`2014/07` `C#`  [BsonToolKit](https://github.com/RyuaNerin/BsonToolKit) : BsonToolkit Based JsonToolkit~~
 -   `2014/05` `C#`  [Warproxy](https://github.com/RyuaNerin/Warproxy) : transparent local HTTP proxy written by C# .Net Framework 3.5
 -   `2014/05` `C#`  [ImageAPIs](https://github.com/RyuaNerin/ImageAPIs) : Image searching library in GelBooru, DanBooru, E-Shuushuu, and many others.
 
