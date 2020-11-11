@@ -121,7 +121,7 @@
 ### Cross-Platform Application
 
 -   `2020/02` `go`  [image-crawler](https://github.com/RyuaNerin/image-crawler) : simple image crawler
--   `2019/06` `go`  [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선
+- ~~`2019/06` `go`  [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선~~
 
 ### Programming Language
 
