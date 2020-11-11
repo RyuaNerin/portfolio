@@ -10,10 +10,10 @@
 
 ## Contact
 
-- Twitter : [@RyuaNerin](https://twitter.com/RyuaNerin)
-- GitHub : [@RyuaNerin](https://github.com/RyuaNerin)
-- Telegram : [@RyuaNerin](https://t.me/ryuanerin)
-- Keybase : [@RyuaNerin](https://keybase.io/ryuanerin)
+- Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
+- GitHub : [RyuaNerin](https://github.com/RyuaNerin)
+- Telegram : [RyuaNerin](https://t.me/ryuanerin)
+- Keybase : [RyuaNerin](https://keybase.io/ryuanerin)
 - E-Mail
     - [admin@ryuar.in](mailto:admin@ryuar.in)
     - [~~ryuanerin@gmail.com~~](mailto:ryuanerin@gmail.com)
