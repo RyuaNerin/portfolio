@@ -84,6 +84,10 @@
 -   `2020/11` `py`  [top-languages-readme](https://github.com/RyuaNerin/top-languages-readme) : Add development language usage statistics on your Profile Readme.
 -   `2020/08` `go`  [ghpull](https://github.com/RyuaNerin/ghpull) : Auto git-pull by GitHub WebHook
 
+### Graphics
+
+-   `2020/12` `c++` [SolarSystem](https://github.com/RyuaNerin/SolarSystem) : OpenGL 로 구현한 태양계 시뮬레이션. (OpenGL Modern 사용으로 H/W 가속 지원, 대학 기말과제)
+
 ### Windows Applictaion
 
 -   `2019/09` `C#`  [**PowerTweak**](https://github.com/RyuaNerin/PowerTweak) : 사용중인 노트북에서 전원버튼으로 절전모드로 변경이 불가능해서 만든 프로그램.
