@@ -44,12 +44,14 @@
 - `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
 - `2019/12 ~ NOW` : DIY NAS Server ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m784383246-7deb49be8ab1dac79ba9a256?style=flat-square)
     - CPU : `AMD Ryzen 2200G`
-    - RAM : `DDR4 16 GB`
+    - RAM : `DDR4 16GB`
     - OS : `Arch-Linux`
-    - UPS
+    - UPS : `500Wh`
         - `network-ups-tools`
     - Storage
-        - `lvm` + `cryptsetup (dm_crypt)`
+        - `NVMe SSD 500 GB`
+        - HDD 9ea with `SuperMicro AOC-S2308L-L8i`
+        - `mdadm` + `lvm` + `Dm-crypt`
     - Mail
         - `Postfix`
         - `Dovecot` (with `opendmarc` `opendkim` `spamassassin` `amavisd`)
@@ -57,7 +59,7 @@
         - `MariaDB`
         - `PostgreSQL`
         - `Redis`
-    - WEB
+    - Web
         - `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
             - supports `EC 256 bits` `RSA 2048 bits`
             - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
