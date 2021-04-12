@@ -141,6 +141,7 @@
 
 #### ~~Final Fantasy XIV~~
 
+-   `2021/04` `C++` [Fotice](https://github.com/RyuaNerin/Fotice) : 파이널 판타지 14 에서 1시간마다 인게임 채팅창에 올라오는 홍보글(=공지사항) 차단하는 프로그램
 - ~~`2018/06` `C#`  [ACT.FFXIV_Discord](https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인~~
 - ~~`2018/04` `C#`  [Fafalymo](https://github.com/RyuaNerin/Fafalymo) : fflogs 에 로`그 업로드를 가능하도록 수정해주는 프로그램~~
 - ~~`2017/12` `C++` [NoMore](https://github.com/RyuaNerin/NoMore) : 자리비움 방지 프로그램~~
