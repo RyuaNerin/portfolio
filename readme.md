@@ -5,6 +5,7 @@
 ## Introduction
 
 - Amateur Programmer who like **C#**, **go**
+- Learning **Rust**.
 - Craftsman making cool, fantastic, fabulous, awesome and useless code.
 - PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](http://pool.sks-keyservers.net/pks/lookup?search=0x542be8eacfb31f3e+&fingerprint=on&hash=on&exact=on&op=index)
 
@@ -63,9 +64,12 @@
         - `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
             - supports `EC 256 bits` `RSA 2048 bits`
             - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
+        - [`Wakapi`](https://github.com/muety/wakapi)
         - [`Sentry Server`](https://sentry.io/)
     - FTP
-        - `proftpd`
+        - [`proftpd`](http://www.proftpd.org/)
+    - Services
+        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
 -`2020/05 ~ NOW` : Vultr VPS ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785766277-bbb43b55bd3fa73c116174ce?style=flat-square)
     - 트위터 이미지 로딩 속도 개선 DNS
 
