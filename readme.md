@@ -66,10 +66,10 @@
             - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
         - [`Wakapi`](https://github.com/muety/wakapi)
         - [`Sentry Server`](https://sentry.io/)
+        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
     - FTP
         - [`proftpd`](http://www.proftpd.org/)
-    - Services
-        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
+
 -`2020/05 ~ NOW` : Vultr VPS ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785766277-bbb43b55bd3fa73c116174ce?style=flat-square)
     - 트위터 이미지 로딩 속도 개선 DNS
 
