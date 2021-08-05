@@ -19,15 +19,14 @@
     - [admin@ryuar.in](mailto:admin@ryuar.in)
     - [~~ryuanerin@gmail.com~~](mailto:ryuanerin@gmail.com)
 
-## Services
+## Maintaining Services
 
 - [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow)
-- [**트위터 이미지 로딩 속도 개선 DNS**](https://twimg.ryuar.in/)
 - [**트윗수랭크 한국**](https://twrank-ko.ryuar.in/)
-- [**Anti Egg**](https://anti-egg.ryuar.in/)
-- [**Tweet Timer**](https://timer.ryuar.in/)
 - [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 - [**WoWcl : WoW 인게임 Warcraftlogs 점수 확인 애드온**](https://wowcl.ryuar.in/)
+- [**Anti Egg**](https://anti-egg.ryuar.in/)
+- [**Tweet Timer**](https://timer.ryuar.in/)
 
 ## Personal Experiences
 
@@ -77,7 +76,7 @@
 
 - ~~`2020/01` `go` 트윗수랭크 일본 : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.~~
 -   `2019/09` `php + go` [**Anti Egg**](https://anti-egg.ryuar.in/) : 알계가 멘션하면 자동으로 블락합니다
--   `2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : Twimg 로딩속도 개선을 위한 기능이 추가 된 dns
+- ~~`2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : Twimg 로딩속도 개선을 위한 기능이 추가 된 dns~~
 -   `2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.
 - ~~`2018/10` `go`  [**Tweet Timer**](https://timer.ryuar.in/) : 트윗 삭제 예약 서비스~~
 
@@ -145,7 +144,7 @@
 -   `2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온
 -   `2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램. 
 
-#### ~~Final Fantasy XIV~~
+#### Final Fantasy XIV
 
 -   `2021/04` `C++` [Fotice](https://github.com/RyuaNerin/Fotice) : 파이널 판타지 14 에서 1시간마다 인게임 채팅창에 올라오는 홍보글(=공지사항) 차단하는 프로그램
 - ~~`2018/06` `C#`  [ACT.FFXIV_Discord](https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인~~
