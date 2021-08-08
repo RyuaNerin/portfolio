@@ -43,28 +43,23 @@
 - `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
 - `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
 - `2019/12 ~ NOW` : DIY NAS Server ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m784383246-7deb49be8ab1dac79ba9a256?style=flat-square)
-    - CPU : `AMD Ryzen 2200G`
-    - RAM : `DDR4 16GB`
     - OS : `Arch-Linux`
     - UPS : `500Wh`
         - `network-ups-tools`
     - Storage
-        - `NVMe SSD 500 GB`
-        - HDD 9ea with `SuperMicro AOC-S2308L-L8i`
+        - `SuperMicro AOC-S2308L-L8i`
         - `mdadm` + `lvm` + `Dm-crypt`
     - Mail
         - `Postfix`
         - `Dovecot` (with `opendmarc` `opendkim` `spamassassin` `amavisd`)
     - Database
         - `MariaDB`
-        - `PostgreSQL`
-        - `Redis`
     - Web
-        - `nginx` (`http2`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
+        - `nginx` (`http2`, `brotli`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
             - supports `EC 256 bits` `RSA 2048 bits`
             - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
         - [`Wakapi`](https://github.com/muety/wakapi)
-        - [`Sentry Server`](https://sentry.io/)
+        - [`Sentry`](https://sentry.io/)
         - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
     - FTP
         - [`proftpd`](http://www.proftpd.org/)
