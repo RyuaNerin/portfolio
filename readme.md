@@ -7,7 +7,7 @@
 - Amateur Programmer who like **C#**, **go**
 - Learning **Rust**.
 - Craftsman making cool, fantastic, fabulous, awesome and useless code.
-- PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](http://pool.sks-keyservers.net/pks/lookup?search=0x542be8eacfb31f3e+&fingerprint=on&hash=on&exact=on&op=index)
+- PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](https://keys.openpgp.org/vks/v1/by-fingerprint/D7BB6E656C33E9017EA4DB08542BE8EACFB31F3E)
 
 ## Contact
 
