@@ -64,7 +64,7 @@
     - FTP
         - [`proftpd`](http://www.proftpd.org/)
 
-- ~~`2020/05 ~ NOW` : Vultr VPS ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785766277-bbb43b55bd3fa73c116174ce?style=flat-square)~~
+- ~~`2020/05 ~ NOW` : Vultr VPS~~
     ~~- 트위터 이미지 로딩 속도 개선 DNS~~
 
 ### Web Services
