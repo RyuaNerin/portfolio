@@ -101,7 +101,6 @@
 -   `2016/04` `C#`  [**Kisbo**](https://github.com/RyuaNerin/Kisbo) : 이미지를 구글링하고, 더 좋은 해상도로 다운로드합니다!
 -   `2015/12` `C#`  [**FuKo**](https://github.com/RyuaNerin/FuKo) : 공인인증서 암호 변경 프로그램
 -   `2015/03` `C#`  [ResizeTo5MB](https://github.com/RyuaNerin/ResizeTo5MB) : 이미지의 해상도를 줄여 5MB 에 최대한 가깝게 만들어준다.
-- ~~`2014/04` `C#`  [OtakuImage](https://github.com/RyuaNerin/OtakuImage) : 짤수집기 소스코드~~
 - ~~`2014/03` `C#`  [MozillaPlugins](https://github.com/RyuaNerin/MozillaPlugins) : NPAPI 제거 프로그램~~
 
 ### Social Network
@@ -125,7 +124,6 @@
 
 ### Cross-Platform Application
 
--   `2020/02` `go`  [image-crawler](https://github.com/RyuaNerin/image-crawler) : simple image crawler
 - ~~`2019/06` `go`  [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선~~
 
 ### Programming Language
