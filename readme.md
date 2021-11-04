@@ -75,11 +75,6 @@
 -   `2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.
 - ~~`2018/10` `go`  [**Tweet Timer**](https://timer.ryuar.in/) : 트윗 삭제 예약 서비스~~
 
-### Kakao
-
--   `2020/02` `go`  [**상지대 식단안내**](https://github.com/RyuaNerin/sangji-haksik-channel) : 상지대학교 창조관/민주관 식단표 조회용 카카오 플러스친구
--   `2020/02` `go`  [**go-kakaoskill**](https://github.com/RyuaNerin/go-kakaoskill) : golang 용 카카오 i 오픈빌더 스킬 v2 라이브러리
-
 ### Utilities
 
 -   `2020/11` `py`  [top-languages-readme](https://github.com/RyuaNerin/top-languages-readme) : Add development language usage statistics on your Profile Readme.
@@ -108,6 +103,8 @@
 -   `2020/10` `go`  [kakao-qr-api-go](https://github.com/RyuaNerin/kakao-qr-api-go) : 카카오 QR 체크인 데이터를 대신 반환하는 API 서버
 -   `2020/06` `C#`  [Flackhole](https://github.com/RyuaNerin/Flackhole) : 미디어 저장 기능이 포함된 관심글 청소기
 -   `2020/04` `go`  [**스트리밍 호흡기 (서버용)**](https://github.com/RyuaNerin/StreamingRespiratorServer) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
+-   `2020/02` `go`  [**상지대 식단안내**](https://github.com/RyuaNerin/sangji-haksik-channel) : 상지대학교 창조관/민주관 식단표 조회용 카카오 플러스친구
+-   `2020/02` `go`  [**go-kakaoskill**](https://github.com/RyuaNerin/go-kakaoskill) : golang 용 카카오 i 오픈빌더 스킬 v2 라이브러리
 -   `2018/08` `C#`  [**스트리밍 호흡기**](https://github.com/RyuaNerin/StreamingRespirator) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
 -   `2016/03` `js`  [**CustomViaForAzurea**](https://github.com/RyuaNerin/CustomViaForAzurea) : Custom via for Azurea
 -   `2015/11` `C#`  [**뎃찌 (Decchi)**](https://github.com/SasarinoMARi/Decchi) : 뎃찌 와 함께 데스크탑에서 #NowPlaying 을 게시해요.
@@ -134,11 +131,12 @@
 
 #### World Of Warcraft
 
--   `2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온
--   `2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램. 
+- ~~`2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온~~
+- ~~`2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램. ~~
 
 #### Final Fantasy XIV
 
+-   `2021/10` `C++` [Pause](https://github.com/RyuaNerin/Paust): 파티찾기 필터링 기능을 강화시켜주는 프로그램
 -   `2021/04` `C++` [Fotice](https://github.com/RyuaNerin/Fotice) : 파이널 판타지 14 에서 1시간마다 인게임 채팅창에 올라오는 홍보글(=공지사항) 차단하는 프로그램
 - ~~`2018/06` `C#`  [ACT.FFXIV_Discord](https://github.com/RyuaNerin/ACT.FFXIV_Discord) - 디스코드에 플레이 중인 캐릭터의 이름, 직업, 맵 이름을 표시해주는 ACT 플러그인~~
 - ~~`2018/04` `C#`  [Fafalymo](https://github.com/RyuaNerin/Fafalymo) : fflogs 에 로`그 업로드를 가능하도록 수정해주는 프로그램~~
