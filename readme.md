@@ -29,6 +29,8 @@
 
 ## Award
 
+- [제1회 강원 사이버보안 경시대회 최우수 (상지대, 강원도지사상)](https://gwissc.or.kr/posts/14)
+
 ## Papaer
 
 ## Personal Experience
