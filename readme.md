@@ -137,7 +137,7 @@
 #### World Of Warcraft
 
 - ~~`2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온~~
-- ~~`2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램. ~~
+- ~~`2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램~~
 
 #### Final Fantasy XIV
 
