@@ -74,6 +74,7 @@
 
 ### Web Service
 
+-   `2022/02` `go` [**fflogs_check**](https://ff14.ryuar.in/) : FFLogs 기록을 바탕으로 생존기, 시너지, 부활 등의 사용 통계를 냅니다.
 - ~~`2020/01` `go` 트윗수랭크 일본 : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.~~
 -   `2019/09` `php + go` [**Anti Egg**](https://anti-egg.ryuar.in/) : 알계가 멘션하면 자동으로 블락합니다
 - ~~`2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : Twimg 로딩속도 개선을 위한 기능이 추가 된 dns~~
