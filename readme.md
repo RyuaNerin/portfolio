@@ -21,11 +21,10 @@
 
 ## Service
 
+- [**FFLogs check**](https://ff14.ryuar.in/)
 - [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow)
 - [**트윗수랭크 한국**](https://twrank-ko.ryuar.in/)
 - [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
-- [**Anti Egg**](https://anti-egg.ryuar.in/)
-- [**Tweet Timer**](https://timer.ryuar.in/)
 
 ## Award
 
@@ -106,7 +105,7 @@
 
 ### Social Network
 
--   `2020/10` `go`  [kakao-qr-api-go](https://github.com/RyuaNerin/kakao-qr-api-go) : 카카오 QR 체크인 데이터를 대신 반환하는 API 서버
+- ~~`2020/10` `go`  [kakao-qr-api-go](https://github.com/RyuaNerin/kakao-qr-api-go) : 카카오 QR 체크인 데이터를 대신 반환하는 API 서버~~
 -   `2020/06` `C#`  [Flackhole](https://github.com/RyuaNerin/Flackhole) : 미디어 저장 기능이 포함된 관심글 청소기
 -   `2020/04` `go`  [**스트리밍 호흡기 (서버용)**](https://github.com/RyuaNerin/StreamingRespiratorServer) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
 -   `2020/02` `go`  [**상지대 식단안내**](https://github.com/RyuaNerin/sangji-haksik-channel) : 상지대학교 창조관/민주관 식단표 조회용 카카오 플러스친구
