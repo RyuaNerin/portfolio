@@ -34,43 +34,6 @@
 
 ## Personal Experience
 
-### Domains
-
-- [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
-- `ryuaner.in` (with **DNSSEC**)
-- `ryuanerin.kr`
-- ~~`decchi.info`~~
-
-### Server
-
-- `2012/09 ~ 2019/06` : ~~VPS~~
-- `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
-- `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
-- `2019/12 ~ NOW` : DIY NAS Server ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m784383246-7deb49be8ab1dac79ba9a256?style=flat-square)
-    - OS : `Arch-Linux`
-    - UPS : `500Wh`
-        - `network-ups-tools`
-    - Storage
-        - `SuperMicro AOC-S2308L-L8i`
-        - `mdadm` + `lvm` + `Dm-crypt`
-    - Mail
-        - `Postfix`
-        - `Dovecot` (with `opendmarc` `opendkim` `spamassassin` `amavisd`)
-    - Database
-        - `MariaDB`
-    - Web
-        - `nginx` (`http2`, `brotli`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
-            - supports `EC 256 bits` `RSA 2048 bits`
-            - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
-        - [`Wakapi`](https://github.com/muety/wakapi)
-        - [`Sentry`](https://sentry.io/)
-        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
-    - FTP
-        - [`proftpd`](http://www.proftpd.org/)
-
-- ~~`2020/05 ~ NOW` : Vultr VPS~~
-    ~~- 트위터 이미지 로딩 속도 개선 DNS~~
-
 ### Web Service
 
 -   `2022/02` `go` [**fflogs_check**](https://ff14.ryuar.in/) : FFLogs 기록을 바탕으로 생존기, 시너지, 부활 등의 사용 통계를 냅니다.
@@ -180,5 +143,43 @@
 -   `2014/05` `C#`  [ImageAPIs](https://github.com/RyuaNerin/ImageAPIs) : Image searching library in GelBooru, DanBooru, E-Shuushuu, and many others.
 
 ### Filtering
+
 -   `2020/06` [filterest](https://github.com/RyuaNerin/filterest) : Filter Pinterest on Google search and DuckDuckGo
 -   `2020/06` [only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) : 검색에서 스택오버플로 짭 숨기기 (구글, 덕덕고 + adgaurd, ublock)
+
+### Domains
+
+- [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
+- `ryuaner.in` (with **DNSSEC**)
+- `ryuanerin.kr`
+- ~~`decchi.info`~~
+
+### Server
+
+- `2012/09 ~ 2019/06` : ~~VPS~~
+- `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
+- `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
+- `2019/12 ~ NOW` : DIY NAS Server ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m784383246-7deb49be8ab1dac79ba9a256?style=flat-square)
+    - OS : `Arch-Linux`
+    - UPS : `500Wh`
+        - `network-ups-tools`
+    - Storage
+        - `SuperMicro AOC-S2308L-L8i`
+        - `mdadm` + `lvm` + `Dm-crypt`
+    - Mail
+        - `Postfix`
+        - `Dovecot` (with `opendmarc` `opendkim` `spamassassin` `amavisd`)
+    - Database
+        - `MariaDB`
+    - Web
+        - `nginx` (`http2`, `brotli`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
+            - supports `EC 256 bits` `RSA 2048 bits`
+            - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
+        - [`Wakapi`](https://github.com/muety/wakapi)
+        - [`Sentry`](https://sentry.io/)
+        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
+    - FTP
+        - [`proftpd`](http://www.proftpd.org/)
+
+- ~~`2020/05 ~ NOW` : Vultr VPS~~
+    ~~- 트위터 이미지 로딩 속도 개선 DNS~~
