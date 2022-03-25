@@ -2,8 +2,9 @@
 
 ## Introduction
 
-- Craftsman making cool, fantastic, fabulous, awesome and useless code.
-- Like **go**, **C#** and **python**.
+- 재밌어 보이는 프로그램을 만드는 것을 좋아합니다.
+- 백엔드 서비스 개발에 관심이 많습니다.
+- **golang**, **C#**, **python**을 주로 사용합니다.
 
 ## Contact
 
@@ -30,10 +31,16 @@
 
 ## Personal Experience
 
-### Web Service
+### Web
 
 -   `2022/02` `go`  [**fflogs_check**](https://ff14.ryuar.in/) : FFLogs 기록을 바탕으로 생존기, 시너지, 부활 등의 사용 통계를 냅니다.
 -   `2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.
+-   `2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : 트위터 이미지, 동영상의 로딩 속도를 개선하기 위한 최적의 CDN을 찾아서 매칭해주는 DNS 서버 **(운영 종료)**
+
+### Filtering
+
+-   `2020/06` [filterest](https://github.com/RyuaNerin/filterest) : Filter Pinterest on Google search and DuckDuckGo
+-   `2020/06` [only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) : 검색에서 스택오버플로 짭 숨기기 (구글, 덕덕고 + adgaurd, ublock)
 
 ### Github Utilities
 
@@ -48,7 +55,7 @@
 
 -   `2019/09` `C#`  [PowerTweak](https://github.com/RyuaNerin/PowerTweak) : 사용중인 노트북에서 전원버튼으로 절전 모드 이용이 불가능하여 만든 프로그램.
 -   `2019/03` `c++` [FucKakaoAd](https://github.com/RyuaNerin/FucKakaoAd) : DLL Injection 을 활용한 카카오톡 광고 차단 프로그램.
--   `2018/07` `C#`  [하뉴 (Hanyu)](https://github.com/RyuaNerin/Hanyu) : (범용) 공인인증서 조회 / ~~복사~~ / ~~삭제~~ / 암호 변경 프로그램
+-   `2018/07` `C#`  [하뉴](https://github.com/RyuaNerin/Hanyu) : (범용) 공인인증서 조회 / ~~복사~~ / ~~삭제~~ / 암호 변경 프로그램
 -   `2016/04` `C#`  [Kisbo](https://github.com/RyuaNerin/Kisbo) : 이미지를 구글링하고, 더 좋은 해상도로 다운로드합니다!
 -   `2015/12` `C#`  [FuKo](https://github.com/RyuaNerin/FuKo) : 공인인증서 암호 변경 프로그램
 
@@ -69,11 +76,9 @@
 
 ### Library
 
--   `2020/08` `go`  [go-krypto](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea
+- ~~`2020/08` `go`  [go-krypto](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea~~ (알고리즘 검증 중)
 -   `2017/02` `C#`  [**LoadPSD**](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
--   `2016/05` `C#`  [libpuzzle-sharp](https://github.com/RyuaNerin/libpuzzle-sharp) : A library to find similar pictures [Libpuzzle](https://www.pureftpd.org/project/libpuzzle)
 -   `2016/04` `C#`  [ExtendStringComparer.cs](https://gist.github.com/RyuaNerin/4d42bd5adb283378c31438c78866b778)
--   `2016/04` `C#`  [Base64Write.cs](https://gist.github.com/RyuaNerin/9bed4ed80d6dc5c522dab4bff3777086) : Read from src stream, encoding with base64, then write to destination stream.
 -   `2016/02` `C#`  [EngHanConverter.cs](https://gist.github.com/RyuaNerin/a62f5ba56f3b3121a495) : 한영타변환 예) 한글 <-> gksrmf
 -   `2015/09` `C#`  [WELL-Sharp](https://github.com/RyuaNerin/WELL-Sharp) : [WELLRNG](http://www.iro.umontreal.ca/~panneton/WELLRNG.html) written by C#.
 -   `2014/08` `C#`  [TOAuth](https://github.com/RyuaNerin/TOAuth) : Twitter OAuth Library
@@ -91,15 +96,10 @@
 -   `2017/12` `C++` [NoMore](https://github.com/RyuaNerin/NoMore) : 자리비움 방지 프로그램
 -   `2017/12` `C#`  [FFXIV_ZOOM_LIMIT_BREAKER](https://github.com/RyuaNerin/FFXIV_ZOOM_LIMIT_BREAKER) : 줌핵. 클라이언트 버전에 관계 없게 메모리 Offset 찾는 코드 작성.
 
-#### ~World Of Warcraft~ (deprecated)
+#### ~World Of Warcraft~ (No more playing)
 
 -   `2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온
 -   `2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램
-
-### Filtering
-
--   `2020/06` [filterest](https://github.com/RyuaNerin/filterest) : Filter Pinterest on Google search and DuckDuckGo
--   `2020/06` [only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) : 검색에서 스택오버플로 짭 숨기기 (구글, 덕덕고 + adgaurd, ublock)
 
 ### Domains
 
@@ -112,27 +112,34 @@
 - `2012/09 ~ 2019/06` : ~~VPS~~
 - `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
 - `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
-- `2019/12 ~ NOW` : DIY NAS Server
-    - OS : `Arch-Linux`
-    - UPS : `500Wh`
-        - `network-ups-tools`
+- `2019/12 ~ NOW` : DIY NAS
+    - OS : [`Arch-Linux`](https://archlinux.org/)
+    - UPS with [`Network UPS Tools (NUT)`](https://networkupstools.org/)
     - Storage
         - `SuperMicro AOC-S2308L-L8i`
-        - `mdadm` + `lvm` + `Dm-crypt`
+        - `mdadm` + `LVM` + `dm-crypt`
     - Mail
-        - `Postfix`
-        - `Dovecot` (with `opendmarc` `opendkim` `spamassassin` `amavisd`)
+        - [`Postfix`](https://www.postfix.org/)
+        - [`Dovecot`](https://www.dovecot.org/)
+            - with [`OpenDMARC`](http://www.trusteddomain.org/opendmarc/) [`OpenDKIM`](http://www.trusteddomain.org/opendmarc/) [`SpamAssassin`](https://spamassassin.apache.org/) [`Amavis`](https://www.ijs.si/software/amavisd/)
     - Database
-        - `MariaDB`
+        - [`MariaDB`](https://mariadb.org/)
+        - [`MongoDB`](https://www.mongodb.com/)
     - Web
-        - `nginx` (`http2`, `brotli`, `ssl` with [Let's Encrypt](https://letsencrypt.org/))
-            - supports `EC 256 bits` `RSA 2048 bits`
-            - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
-        - [`Wakapi`](https://github.com/muety/wakapi)
+        - [`nginx`](https://www.nginx.com/)
+            - `http2`
+            - [`brotli`](https://github.com/google/brotli/)
+            - HTTPS `ssl` with [Let's Encrypt](https://letsencrypt.org/)
+                - supports `EC 256 bits` `RSA 2048 bits`
+                - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
+        - [`Wakapi`](https://github.com/muety/wakapi/)
         - [`Sentry`](https://sentry.io/)
-        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden)
-    - FTP
+        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden/)
+    - Network sharing
+        - [`Samba`](https://www.samba.org/)
         - [`proftpd`](http://www.proftpd.org/)
+    - 1.0 Gbps external network
+    - 2.5 Gbps internal network
 
 - ~~`2020/05 ~ NOW` : Vultr VPS~~
     ~~- 트위터 이미지 로딩 속도 개선 DNS~~
