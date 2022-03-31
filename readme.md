@@ -42,8 +42,9 @@
 -   `2020/06` [filterest](https://github.com/RyuaNerin/filterest) : Filter Pinterest on Google search and DuckDuckGo
 -   `2020/06` [only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) : 검색에서 스택오버플로 짭 숨기기 (구글, 덕덕고 + adgaurd, ublock)
 
-### Github Utilities
+### Utilities
 
+-   `2022/04` `go`  [uotp-go](https://github.com/RyuaNerin/uotp-go) : μOTP+ is the next generation OTP toolkit.
 -   `2020/11` `py`  [top-languages-readme](https://github.com/RyuaNerin/top-languages-readme) : Add development language usage statistics on your Profile Readme.
 -   `2020/08` `go`  [ghpull](https://github.com/RyuaNerin/ghpull) : Auto git-pull by GitHub WebHook
 
