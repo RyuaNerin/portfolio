@@ -2,6 +2,7 @@
 
 ## Introduction
 
+- 백종민 (aka 류아네린, 류아린, 륜아린)
 - 재밌어 보이는 프로그램을 만드는 것을 좋아합니다.
 - 백엔드 서비스 개발에 관심이 많습니다.
 - **golang**, **C#**, **python**을 주로 사용합니다.
@@ -9,11 +10,16 @@
 ## Contact
 
 - GitHub : [RyuaNerin](https://github.com/RyuaNerin)
-- Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
+- SNS
+    - Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
+    - Discord : [RyuaNerin](https://discordapp.com/users/254106925669548033)
+    - DC-Inside: [RyuaNerin](https://gallog.dcinside.com/ryuanerin)
+        - [세아스토리 마이너 갤러리 only](https://gall.dcinside.com/seastory)
+    - 이 외의 계정은 제 공식적인 계정이 아닙니다.
 - E-Mail
     - [admin@ryuar.in](mailto:admin@ryuar.in)
     - [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
-    - PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](https://keys.openpgp.org/vks/v1/by-fingerprint/D7BB6E656C33E9017EA4DB08542BE8EACFB31F3E)
+- PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](https://keys.openpgp.org/vks/v1/by-fingerprint/D7BB6E656C33E9017EA4DB08542BE8EACFB31F3E)
 
 ## Service
 
@@ -30,11 +36,18 @@
 
 ## Personal Experience
 
+### Domains
+
+- [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
+- `ryuaner.in` (with **DNSSEC**)
+- `ryuanerin.kr`
+- `givemecs.live` : 스트리머 팬사이트
+
 ### Web
 
 -   `2022/02` `go`  [**fflogs_check**](https://ff14.ryuar.in/) : FFLogs 기록을 바탕으로 생존기, 시너지, 부활 등의 사용 통계를 냅니다.
--   `2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.
--   `2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : 트위터 이미지, 동영상의 로딩 속도를 개선하기 위한 최적의 CDN을 찾아서 매칭해주는 DNS 서버 **(운영 종료)**
+- ~~`2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.~~
+- ~~`2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : 트위터 이미지, 동영상의 로딩 속도를 개선하기 위한 최적의 CDN을 찾아서 매칭해주는 DNS 서버 **(운영 종료)**~~
 
 ### Filtering
 
@@ -76,7 +89,7 @@
 
 ### Library
 
-- ~~`2020/08` `go`  [go-krypto](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea~~ (알고리즘 검증 중)
+-   `2020/08` `go`  [go-krypto](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea
 -   `2017/02` `C#`  [**LoadPSD**](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
 -   `2016/04` `C#`  [ExtendStringComparer.cs](https://gist.github.com/RyuaNerin/4d42bd5adb283378c31438c78866b778)
 -   `2016/02` `C#`  [EngHanConverter.cs](https://gist.github.com/RyuaNerin/a62f5ba56f3b3121a495) : 한영타변환 예) 한글 <-> gksrmf
