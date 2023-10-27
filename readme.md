@@ -10,15 +10,21 @@
 ## Contact
 
 - GitHub : [RyuaNerin](https://github.com/RyuaNerin)
+- E-Mail
+    - [admin@ryuar.in](mailto:admin@ryuar.in)
+    - [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
 - SNS
     - Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
     - Discord : [RyuaNerin](https://discordapp.com/users/254106925669548033)
     - DC-Inside: [RyuaNerin](https://gallog.dcinside.com/ryuanerin)
         - [세아스토리 마이너 갤러리 only](https://gall.dcinside.com/seastory)
-    - 이 외의 계정은 제 공식적인 계정이 아닙니다.
-- E-Mail
-    - [admin@ryuar.in](mailto:admin@ryuar.in)
-    - [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
+    - 이 외는 제 공식적인 계정이 아닙니다.
+- Game
+    - Final Fantasy XIV
+        - 륜아린@모그리
+    - World Of Warcraft
+        - 곌벴꼲똴꼍놂뚫뀄-아즈샤라
+        - 경력직자택경비원-아즈샤라
 - PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](https://keys.openpgp.org/vks/v1/by-fingerprint/D7BB6E656C33E9017EA4DB08542BE8EACFB31F3E)
 
 ## Service
