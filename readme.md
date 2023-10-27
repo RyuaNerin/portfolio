@@ -13,6 +13,7 @@
 - E-Mail
     - [admin@ryuar.in](mailto:admin@ryuar.in)
     - [ryuanerin@gmail.com](mailto:ryuanerin@gmail.com)
+- PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](https://keys.openpgp.org/vks/v1/by-fingerprint/D7BB6E656C33E9017EA4DB08542BE8EACFB31F3E)
 - SNS
     - Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
     - Discord : [RyuaNerin](https://discordapp.com/users/254106925669548033)
@@ -25,7 +26,6 @@
     - World Of Warcraft
         - 곌벴꼲똴꼍놂뚫뀄-아즈샤라
         - 경력직자택경비원-아즈샤라
-- PGP : [`D7BB 6E65 6C33 E901 7EA4 DB08 542B E8EA CFB3 1F3E`](https://keys.openpgp.org/vks/v1/by-fingerprint/D7BB6E656C33E9017EA4DB08542BE8EACFB31F3E)
 
 ## Service
 
