@@ -113,11 +113,6 @@
 
 -   `2022/02` `go`  [fflogs_check](https://github.com/RyuaNerin/fflogs_check) : 고난이도 컨텐츠 클리어 기록에서 생존기, 시너지, 부활 등의 사용 수를 통계 내주는 사이트
 -   `2022/02` `go`  [go-fflogs](https://github.com/RyuaNerin/go-fflogs) : Implements fflogs api v1 written by golang.
--   `2021/10` `c++` [OldPlate](https://github.com/RyuaNerin/OldPlate): 파이널 판타지 14의 이름 글꼴을 예전으로 돌려주는 프로그램
--   `2021/10` `c++` [Pause](https://github.com/RyuaNerin/Paust): 파티찾기 필터링 기능을 강화시켜주는 프로그램
--   `2021/04` `c++` [Fotice](https://github.com/RyuaNerin/Fotice) : 파이널 판타지 14 에서 1시간마다 인게임 채팅창에 올라오는 홍보글(=공지사항) 차단하는 프로그램
--   `2017/12` `C++` [NoMore](https://github.com/RyuaNerin/NoMore) : 자리비움 방지 프로그램
--   `2017/12` `C#`  [FFXIV_ZOOM_LIMIT_BREAKER](https://github.com/RyuaNerin/FFXIV_ZOOM_LIMIT_BREAKER) : 줌핵. 클라이언트 버전에 관계 없게 메모리 Offset 찾는 코드 작성.
 
 #### ~World Of Warcraft~ (No more playing)
 
