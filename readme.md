@@ -23,20 +23,21 @@
 - Game
     - Final Fantasy XIV
         - 륜아린@모그리 (메인)
-        - 륜아린@초코보
         - 륜아린@카벙클
-        - 륜아린@펜리르
+        - 륜아린@초코보
         - 륜아린@톤베리
+        - 륜아린@펜리르
     - World Of Warcraft
         - 곌벴꼲똴꼍놂뚫뀄-아즈샤라
         - 경력직자택경비원-아즈샤라
 
-## Service
+## Maintenance
 
-- [**트윗수랭크**](https://twrank-ko.ryuar.in/)
-- [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
-- [**FFLogs check**](https://ff14.ryuar.in/)
+- [**go-krypto**](https://github.com/RyuaNerin/go-krypto)
 - [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow)
+- [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
+- [**레이드 클자 체크**](https://wow-check.ryuar.in/)
+- [**FFLogs check**](https://ff14.ryuar.in/)
 
 ## Award
 
@@ -51,10 +52,11 @@
 - [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
 - `ryuaner.in` (with **DNSSEC**)
 - `ryuanerin.kr`
-- `givemecs.live` : 스트리머 팬사이트
+- `givemecs.live` : [트위치 스트리머 미녕이데려오깨](https://twitch.tv/givemecs) 팬사이트
 
 ### Web
 
+-   `2023/01` `go`  [**와우 레이드 클자 체크**](https://wow-check.ryuar.in/) : WarcarftLogs 기록을 바탕으로 공대원의 레이드 클리어 현황(첫 클리어 날, 이번주 클리어 여부, 로그 점수 등)을 확인합니다.
 -   `2022/02` `go`  [**fflogs_check**](https://ff14.ryuar.in/) : FFLogs 기록을 바탕으로 생존기, 시너지, 부활 등의 사용 통계를 냅니다.
 - ~~`2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.~~
 - ~~`2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : 트위터 이미지, 동영상의 로딩 속도를 개선하기 위한 최적의 CDN을 찾아서 매칭해주는 DNS 서버 **(운영 종료)**~~
@@ -86,25 +88,25 @@
 
 -   `2020/02` `go`  [상지대 식단안내](https://github.com/RyuaNerin/sangji-haksik-channel) : 상지대학교 창조관/민주관 식단표 조회용 카카오 플러스친구
 -   `2020/02` `go`  [go-kakaoskill](https://github.com/RyuaNerin/go-kakaoskill) : golang 용 카카오 i 오픈빌더 스킬 v2 라이브러리
--   `2019/06` `go`  [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선
--   `2018/08` `C#`  [스트리밍 호흡기](https://github.com/RyuaNerin/StreamingRespirator) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.
--   `2015/06` `C#`  [Twitter-OAuth-Token-Generator](https://github.com/RyuaNerin/Twitter-OAuth-Token-Generator) : Twitter-OAuth-Token-Generator (supported both URL and Pin)
--   `2015/05` `C#`  [Azpe](https://github.com/RyuaNerin/Azpe) : 아즈레아의 약간 부족한 이미지 뷰어를 강화하고자 한 프로그램입니다.
--   `2014/05` `C#`  [TiX (QIT)](https://github.com/RyuaNerin/QIT) : 쉽게 트위터에 사진 트윗하기. 용량이 큰 이미지 자동 리사이징 기능 지원
--   `2014/03` `js`  [AzureaScript](https://github.com/RyuaNerin/AzureaScript) : 아즈레아 스크립트 모음
+- ~~`2019/06` `go`  [TwimgCdnPatch](https://github.com/RyuaNerin/TwimgCdnPatch) : Hosts 파일 수정으로 트위터 이미지 로딩 속도 개선~~
+- ~~`2018/08` `C#`  [스트리밍 호흡기](https://github.com/RyuaNerin/StreamingRespirator) : **deprecated** 된 트위터 타임라인 스트리밍 서비스를 다시 사용하게 해주는 프로그램.~~
+- ~~`2015/06` `C#`  [Twitter-OAuth-Token-Generator](https://github.com/RyuaNerin/Twitter-OAuth-Token-Generator) : Twitter-OAuth-Token-Generator (supported both URL and Pin)~~
+- ~~`2015/05` `C#`  [Azpe](https://github.com/RyuaNerin/Azpe) : 아즈레아의 약간 부족한 이미지 뷰어를 강화하고자 한 프로그램입니다.~~
+- ~~`2014/05` `C#`  [TiX (QIT)](https://github.com/RyuaNerin/QIT) : 쉽게 트위터에 사진 트윗하기. 용량이 큰 이미지 자동 리사이징 기능 지원~~
+- ~~`2014/03` `js`  [AzureaScript](https://github.com/RyuaNerin/AzureaScript) : 아즈레아 스크립트 모음~~
 
 ### Programming Language
 
--   `2014/03` `C#` [AheuiCSharp](https://github.com/RyuaNerin/AheuiCSharp) : C# 아희 인터프리터
+-   `2014/03` `C#`  [AheuiCSharp](https://github.com/RyuaNerin/AheuiCSharp) : C# 아희 인터프리터
 
 ### Library
 
--   `2020/08` `go`  [go-krypto](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea
--   `2017/02` `C#`  [**LoadPSD**](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
+-   `2020/08` `go`  [**go-krypto**](https://github.com/RyuaNerin/go-krypto) : Golang implementation of cryptographic algorithms designed by Republic of Korea
+-   `2017/02` `C#`  [LoadPSD](https://github.com/RyuaNerin/LoadPSD) : Load PSD File as `System.Drawing.Image`.
 -   `2016/04` `C#`  [ExtendStringComparer.cs](https://gist.github.com/RyuaNerin/4d42bd5adb283378c31438c78866b778)
 -   `2016/02` `C#`  [EngHanConverter.cs](https://gist.github.com/RyuaNerin/a62f5ba56f3b3121a495) : 한영타변환 예) 한글 <-> gksrmf
 -   `2015/09` `C#`  [WELL-Sharp](https://github.com/RyuaNerin/WELL-Sharp) : [WELLRNG](http://www.iro.umontreal.ca/~panneton/WELLRNG.html) written by C#.
--   `2014/08` `C#`  [TOAuth](https://github.com/RyuaNerin/TOAuth) : Twitter OAuth Library
+- ~~`2014/08` `C#`  [TOAuth](https://github.com/RyuaNerin/TOAuth) : Twitter OAuth Library~~
 -   `2014/05` `C#`  [Warproxy](https://github.com/RyuaNerin/Warproxy) : transparent local HTTP proxy written by C# .Net Framework 3.5
 
 ### Game
@@ -127,10 +129,7 @@
 
 ### Server
 
-- `2012/09 ~ 2019/06` : ~~VPS~~
-- `2017/07 ~ 2019/06` : ~~ipTime Nas1Dual~~
-- `2019/06 ~ 2019/11` : ~~TerraMaster F2-220~~
-- `2019/12 ~ NOW` : DIY NAS
+- DIY NAS
     - OS : [`Arch-Linux`](https://archlinux.org/)
     - UPS with [`Network UPS Tools (NUT)`](https://networkupstools.org/)
     - Storage
@@ -143,9 +142,10 @@
     - Database
         - [`MariaDB`](https://mariadb.org/)
         - [`MongoDB`](https://www.mongodb.com/)
+        - [`Redis`](https://redis.io/)
     - Web
         - [`nginx`](https://www.nginx.com/)
-            - `http2`
+            - `http2` `http3-quic`
             - [`brotli`](https://github.com/google/brotli/)
             - HTTPS `ssl` with [Let's Encrypt](https://letsencrypt.org/)
                 - supports `EC 256 bits` `RSA 2048 bits`
@@ -158,6 +158,3 @@
         - [`proftpd`](http://www.proftpd.org/)
     - 1.0 Gbps external network
     - 2.5 Gbps internal network
-
-- ~~`2020/05 ~ NOW` : Vultr VPS~~
-    ~~- 트위터 이미지 로딩 속도 개선 DNS~~
