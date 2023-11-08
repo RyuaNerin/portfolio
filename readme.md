@@ -21,12 +21,6 @@
         - [세아스토리 마이너 갤러리 only](https://gall.dcinside.com/seastory)
     - 이 외는 제 공식적인 계정이 아닙니다.
 - Game
-    - Final Fantasy XIV
-        - 륜아린@모그리 (메인)
-        - 륜아린@카벙클
-        - 륜아린@초코보
-        - 륜아린@톤베리
-        - 륜아린@펜리르
     - World Of Warcraft
         - 곌벴꼲똴꼍놂뚫뀄-아즈샤라
         - 경력직자택경비원-아즈샤라
@@ -118,8 +112,8 @@
 
 #### ~World Of Warcraft~ (No more playing)
 
--   `2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온
--   `2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램
+- ~~`2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온~~
+- ~~`2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램~~
 
 ### Domains
 
