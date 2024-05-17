@@ -27,8 +27,8 @@
 
 ## Maintenance
 
-- [**go-krypto**](https://github.com/RyuaNerin/go-krypto)
-- [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow)
+- [**go-krypto**](https://github.com/RyuaNerin/go-krypto) : Golang으로 작성된 한국 암호화 알고리즘 라이브러리
+- [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow) : 구글 검색에서 가짜 stackoverflow 숨기는 광고 차단 필터
 - [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 - [**레이드 클자 체크**](https://wow-check.ryuar.in/)
 - [**FFLogs check**](https://ff14.ryuar.in/)
@@ -49,8 +49,10 @@
     - 자문 (이상 탐지 모듈 개발)
 - `2022/11 - NOW    ` : 해시그래프 기반 블록체인 고성능화 기술 개발 및 자율주행 환경 테스트베드 구축
     - 연구원 (소스코드 분석 및 성능 분석용 애플리케이션 개발) 
-- `2023/10 - 2024/01` : ???
+- `2023/10 - 2024/02`
     - 연구원 (시스템 설계, 구현 및 Android, iOS 연동 SDK 개발)
+- `2024/02` - 현재
+    - 연구원 (사내 블록체인 연동 시스템 설계, 개발 및 운영)
 
 ## Personal Experience
 
