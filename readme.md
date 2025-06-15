@@ -4,8 +4,8 @@
 
 - 백종민 (aka 류아네린, 류아린, 륜아린)
 - 재밌어 보이는 프로그램을 만드는 것을 좋아합니다.
-- 백엔드 서비스 개발에 관심이 많습니다.
-- **golang**, **C#**, **python**을 주로 사용합니다.
+- 백엔드 개발 및 AI에 관심이 많습니다.
+- **golang**, **python**을 주로 사용합니다.
 
 ## Contact
 
@@ -17,13 +17,6 @@
 - SNS
     - Twitter : [RyuaNerin](https://twitter.com/RyuaNerin)
     - Discord : [RyuaNerin](https://discordapp.com/users/254106925669548033)
-    - DC-Inside: [RyuaNerin](https://gallog.dcinside.com/ryuanerin)
-        - [세아스토리 마이너 갤러리 only](https://gall.dcinside.com/seastory)
-    - 이 외는 제 공식적인 계정이 아닙니다.
-- Game
-    - World Of Warcraft
-        - 곌벴꼲똴꼍놂뚫뀄-아즈샤라
-        - 경력직자택경비원-아즈샤라
 
 ## Maintenance
 
@@ -31,28 +24,6 @@
 - [**only-stackoverflow**](https://github.com/RyuaNerin/only-stackoverflow) : 구글 검색에서 가짜 stackoverflow 숨기는 광고 차단 필터
 - [**상지대 식단안내 카카오채널**](https://pf.kakao.com/_xbkxdyT)
 - [**레이드 클자 체크**](https://wow-check.ryuar.in/)
-- [**FFLogs check**](https://ff14.ryuar.in/)
-
-## Award
-
-- [제1회 강원 사이버보안 경시대회 최우수 (상지대, 강원도지사상)](https://news.unn.net/news/articleView.html?idxno=519400)
-
-## Papaer
-
-(...)
-
-## Project
-
-- `2020/07 - 2021/06` : 블록체인 기반 IoT 기술융합 개인용 진단폐활량계 개발
-    - 학부연구생
-- `2022/06 - 2022/11` : 블록체인 원장 및 스마트컨트랙트 자료구조 시각화 도구
-    - 자문 (이상 탐지 모듈 개발)
-- `2022/11 - NOW    ` : 해시그래프 기반 블록체인 고성능화 기술 개발 및 자율주행 환경 테스트베드 구축
-    - 연구원 (소스코드 분석 및 성능 분석용 애플리케이션 개발) 
-- `2023/10 - 2024/02`
-    - 연구원 (시스템 설계, 구현 및 Android, iOS 연동 SDK 개발)
-- `2024/02` - 현재
-    - 연구원 (사내 블록체인 연동 시스템 설계, 개발 및 운영)
 
 ## Personal Experience
 
@@ -61,14 +32,14 @@
 - [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
 - `ryuaner.in` (with **DNSSEC**)
 - `ryuanerin.kr`
-- `givemecs.live` : [트위치 스트리머 미녕이데려오깨](https://twitch.tv/givemecs) 팬사이트
+- `min02.live` `givemecs.live` : [SOOP 스트리머 미녕이데려오깨](https://ch.sooplive.co.kr/givemecs) 팬사이트
 
 ### Web
 
 -   `2023/01` `go`  [**와우 레이드 클자 체크**](https://wow-check.ryuar.in/) : WarcarftLogs 기록을 바탕으로 공대원의 레이드 클리어 현황(첫 클리어 날, 이번주 클리어 여부, 로그 점수 등)을 확인합니다.
 -   `2022/02` `go`  [**fflogs_check**](https://ff14.ryuar.in/) : FFLogs 기록을 바탕으로 생존기, 시너지, 부활 등의 사용 통계를 냅니다.
 - ~~`2018/11` `go`  [**트윗수랭크 한국**](https://twrank.ryuar.in/) : 1 주일 단위로 수집된 모든 유저의 현재 트윗 수를 갱신하여 순위를 매깁니다.~~
-- ~~`2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : 트위터 이미지, 동영상의 로딩 속도를 개선하기 위한 최적의 CDN을 찾아서 매칭해주는 DNS 서버 **(운영 종료)**~~
+- ~~`2019/06` `go`  [Domain Name Server For Twimg](https://github.com/RyuaNerin/DNS-For-Twimg) : 트위터 이미지, 동영상의 로딩 속도를 개선하기 위한 최적의 CDN을 찾아서 매칭해주는 DNS 서버~~
 
 ### Filtering
 
@@ -120,50 +91,19 @@
 
 ### Game
 
-#### Final Fantasy XIV
-
--   `2022/02` `go`  [fflogs_check](https://github.com/RyuaNerin/fflogs_check) : 고난이도 컨텐츠 클리어 기록에서 생존기, 시너지, 부활 등의 사용 수를 통계 내주는 사이트
--   `2022/02` `go`  [go-fflogs](https://github.com/RyuaNerin/go-fflogs) : Implements fflogs api v1 written by golang.
-
-#### ~World Of Warcraft~ (No more playing)
+#### World Of Warcraft
 
 - ~~`2021/03` `lua` [WoWcl](https://wowcl.ryuar.in/) : WoW 인게임 Warcraftlogs 점수 확인 애드온~~
-- ~~`2021/03` `go` WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램~~
+- ~~`2021/03` `go`  WoWcl-backend : WoWcl 데이터베이스 업데이트 프로그램~~
+
+#### Final Fantasy XIV
+
+-   `2022/02` `go`  [go-fflogs](https://github.com/RyuaNerin/go-fflogs) : Implements fflogs api v1 written by golang.
 
 ### Domains
 
-- [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
-- `ryuaner.in` (with **DNSSEC**)
+- [`ryuar.in`](https://ryuar.in)
+- `ryuaner.in`
 - `ryuanerin.kr`
-
-### Server
-
-- DIY NAS
-    - OS : [`Arch-Linux`](https://archlinux.org/)
-    - UPS with [`Network UPS Tools (NUT)`](https://networkupstools.org/)
-    - Storage
-        - `SuperMicro AOC-S2308L-L8i`
-        - `mdadm` + `LVM` + `dm-crypt`
-    - Mail
-        - [`Postfix`](https://www.postfix.org/)
-        - [`Dovecot`](https://www.dovecot.org/)
-            - with [`OpenDMARC`](http://www.trusteddomain.org/opendmarc/) [`OpenDKIM`](http://www.trusteddomain.org/opendmarc/) [`SpamAssassin`](https://spamassassin.apache.org/) [`Amavis`](https://www.ijs.si/software/amavisd/)
-    - Database
-        - [`MariaDB`](https://mariadb.org/)
-        - [`MongoDB`](https://www.mongodb.com/)
-        - [`Redis`](https://redis.io/)
-    - Web
-        - [`nginx`](https://www.nginx.com/)
-            - `http2` `http3-quic`
-            - [`brotli`](https://github.com/google/brotli/)
-            - HTTPS `ssl` with [Let's Encrypt](https://letsencrypt.org/)
-                - supports `EC 256 bits` `RSA 2048 bits`
-                - [SSL Labs Overall Rating : A+](https://www.ssllabs.com/ssltest/analyze.html?d=ryuar.in&hideResults=on)
-        - [`Wakapi`](https://github.com/muety/wakapi/)
-        - [`Sentry`](https://sentry.io/)
-        - [`vaultwarden`](https://github.com/dani-garcia/vaultwarden/)
-    - Network sharing
-        - [`Samba`](https://www.samba.org/)
-        - [`proftpd`](http://www.proftpd.org/)
-    - 1.0 Gbps external network
-    - 2.5 Gbps internal network
+- `givemecs.live`
+- `min02.live`
