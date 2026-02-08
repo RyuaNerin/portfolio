@@ -32,7 +32,7 @@
 - [`ryuar.in`](https://ryuar.in) (with **DNSSEC**)
 - `ryuaner.in` (with **DNSSEC**)
 - `ryuanerin.kr`
-- `min02.live` `givemecs.live` : [SOOP 스트리머 미녕이데려오깨](https://ch.sooplive.co.kr/givemecs) 팬사이트
+- `min02.live` `givemecs.live` : [SOOP 스트리머 미녕이데려오깨](https://chzzk.naver.com/live/c7d3b49d29be2d2b1d74ba8403f5851a) 팬사이트
 
 ### Web
 
@@ -107,3 +107,4 @@
 - `ryuanerin.kr`
 - `givemecs.live`
 - `min02.live`
+
